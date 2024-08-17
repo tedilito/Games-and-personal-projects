@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\bin\Debug\net8.0\NokiaSnake.exe
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\bin\Debug\net8.0\NokiaSnake.deps.json
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\bin\Debug\net8.0\NokiaSnake.runtimeconfig.json
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\bin\Debug\net8.0\NokiaSnake.dll
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\bin\Debug\net8.0\NokiaSnake.pdb
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.AssemblyInfo.cs
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.dll
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\refint\NokiaSnake.dll
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.pdb
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\NokiaSnake.genruntimeconfig.cache
+C:\Users\tedil\source\repos\NokiaSnake\NokiaSnake\obj\Debug\net8.0\ref\NokiaSnake.dll

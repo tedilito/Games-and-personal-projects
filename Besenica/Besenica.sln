@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Besenica", "Besenica\Besenica.csproj", "{FA5A7F0F-895A-453F-BE19-57431975BBC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5A7F0F-895A-453F-BE19-57431975BBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5A7F0F-895A-453F-BE19-57431975BBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5A7F0F-895A-453F-BE19-57431975BBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5A7F0F-895A-453F-BE19-57431975BBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E111DB9-126A-4F70-AC77-F1A602F65FB2}
+	EndGlobalSection
+EndGlobal

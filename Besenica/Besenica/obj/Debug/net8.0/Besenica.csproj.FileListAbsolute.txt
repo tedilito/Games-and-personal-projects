@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\Besenica\Besenica\bin\Debug\net8.0\Besenica.exe
+C:\Users\tedil\source\repos\Besenica\Besenica\bin\Debug\net8.0\Besenica.deps.json
+C:\Users\tedil\source\repos\Besenica\Besenica\bin\Debug\net8.0\Besenica.runtimeconfig.json
+C:\Users\tedil\source\repos\Besenica\Besenica\bin\Debug\net8.0\Besenica.dll
+C:\Users\tedil\source\repos\Besenica\Besenica\bin\Debug\net8.0\Besenica.pdb
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.AssemblyInfo.cs
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.dll
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\refint\Besenica.dll
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.pdb
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\Besenica.genruntimeconfig.cache
+C:\Users\tedil\source\repos\Besenica\Besenica\obj\Debug\net8.0\ref\Besenica.dll
