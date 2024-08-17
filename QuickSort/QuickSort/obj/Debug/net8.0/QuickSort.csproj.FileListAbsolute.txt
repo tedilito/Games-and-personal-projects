@@ -1,0 +1,14 @@
+C:\Users\tedil\source\repos\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.exe
+C:\Users\tedil\source\repos\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+C:\Users\tedil\source\repos\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+C:\Users\tedil\source\repos\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.dll
+C:\Users\tedil\source\repos\QuickSort\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.dll
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+C:\Users\tedil\source\repos\QuickSort\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll
