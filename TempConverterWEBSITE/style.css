@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier New', Courier;
+    background-color: rgba(207, 255, 255, 0.993);
+}
+h1{
+    color: rgb(237, 222, 12);
+}
+form{
+    background-color: aliceblue;
+    text-align: center;
+    max-width: 400px;
+    margin:auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(128, 128, 128, 0.337);
+}
+#tempInput{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid rgba(0, 0, 0, 0.044);
+    border-radius: 5px;
+    margin-bottom: 15px;
+
+
+}
+label{
+    font-size: 1.3em;
+    font-weight: bold;
+
+}
+button{
+    margin-top: 17px;
+    background-color: blueviolet;
+    font-size: 1.3em;
+    padding: 10px 15px;
+    cursor: pointer;
+}
