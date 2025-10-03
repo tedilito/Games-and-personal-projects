@@ -1,0 +1,242 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #75b7fa;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    font-size: 106%;
+}
+
+.timer {
+    font-size: 108%;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+    color: #333;
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    transform: scale(1.08);
+}
+
+.puzzle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 106%;
+    transform: scale(1.06);
+}
+
+.blanks {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    font-size: 106%;
+    transform: scale(1.06);
+}
+
+.blank {
+    width: 40px;
+    height: 40px;
+    border-bottom: 4px solid #ff6600;
+    margin: 0 5px;
+}
+
+.letters {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.letter {
+    width: 10vw;
+    height: 10vw;
+    max-width: 50px;
+    max-height: 50px;
+    min-width: 30px;
+    min-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #007bff;
+    margin: 5px;
+    background-color: #ffe4b5;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    font-size: 1.2em;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10%;
+}
+
+.letter:hover {
+    background-color: #ffeb3b;
+    transform: scale(1.1);
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 106%;
+    color: #008000;
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    transform: scale(1.06);
+}
+
+#retryButton {
+    margin: 10px auto;
+    padding: 12px 25px;
+    font-size: 106%;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: auto;
+    max-width: 200px;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+}
+
+#retryButton:hover {
+    background-color: #0056b3;
+}
+
+#hintButton {
+    margin: 10px auto;
+    padding: 12px 25px;
+    font-size: 106%;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    width: auto;
+    max-width: 200px;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    transform: scale(1.06);
+}
+
+#hintButton:hover {
+    background-color: #218838;
+    transform: scale(1.1);
+}
+
+@media (max-width: 600px) {
+    .blank, .letter {
+        width: 30px;
+        height: 30px;
+        font-size: 1em;
+    }
+
+    .timer, .blanks, .letters, .message {
+        font-size: 1.5em;
+    }
+
+    #retryButton {
+        font-size: 1.5em;
+    }
+}
+
+.rulesButton, .close {
+    font-size: 1.5em;
+    padding: 10px 20px;
+}
+
+#rulesPopup {
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+.fun-points {
+    font-size: 24px;
+    font-weight: bold;
+    color: #85ff1a;
+    text-align: center;
+    margin-top: 20px;
+    animation: bounce 1s infinite;
+}
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    z-index: 1000;
+}
+
+.popup-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.popup-content p {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.popup-content button {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.popup-content button:hover {
+    background-color: #0056b3;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    pointer-events: none;
+}
+
+
+
+

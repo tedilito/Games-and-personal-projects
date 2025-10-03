@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scramble Letters Puzzle</title>
+    <link rel="stylesheet" href="gamePageCss.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.4.0/dist/confetti.browser.min.js"></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+   <a href="startPage.html" style="position: absolute; top: 5px; left: 5px;">
+        <img src="Resourses/gamePageBackBtn.png" alt="Back" class="icon" >
+    </a>
+
+    <div class="timer" id="timer">00:30</div>
+    <div class="points fun-points" id="points">Points: 0</div>
+    
+    <div class="puzzle-container">
+        <div class="blanks" id="blanks"></div>
+        <div class="letters-container">
+            <div class="letters" id="letters"></div>
+            <button id="hintButton" onclick="showHint()">Подсказка</button>
+        </div>
+        <div class="message" id="message"></div>
+        <div class="bubble-container">
+            <button id="retryButton" style="display:none;">Опитай пак</button>
+        </div>
+    </div>
+
+    <div id="overlay" class="overlay" style="display:none;"></div>
+    <div id="popup" class="popup" style="display:none;">
+        <div class="popup-content">
+            <p id="popupMessage"></p>
+            <button id="playAgainButton">Играй отново</button>
+            <button id="mainMenuButton">Върни се на началния екран</button>
+        </div>
+    </div>
+
+    <div id="hintPopup" class="popup" style="display:none;">
+        <div class="popup-content">
+            <p id="hintMessage">Тук ще се покаже подсказката!</p>
+            <button id="closeHintButton" onclick="hideHint()">Затвори</button>
+        </div>
+    </div>
+
+  
+  
+</body>
+</html>
